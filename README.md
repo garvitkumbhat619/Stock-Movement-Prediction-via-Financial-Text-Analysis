@@ -9,7 +9,7 @@ This project classifies tweets as **positive (1)** or **negative/neutral (0)** u
 
 The project report summarizes the model architecture, data preprocessing, evaluation metrics, and deployment strategies.
 
-📄 [View Project Report (PDF)](./Tweets_Report.pdf)
+📄 [View Project Report (PDF)](./Tweet_Report.pdf)
 
 
 ## 📁 Project Structure
